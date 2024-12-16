@@ -7,6 +7,10 @@ This repository contains Python based codes for solving some simple problems on 
 We have the equation:
 
 We aim to solve the second-order ODE:
+
+![Equation](https://latex.codecogs.com/png.latex?\frac{d^2\theta}{dt^2}+\mu\frac{d\theta}{dt}+\omega_0^2\sin^2\theta=0)
+
+https://latex.codecogs.com/svg.image?&space;
 \[
 \frac{d^2\theta}{dt^2} + \mu\frac{d\theta}{dt} + \omega_0^2 \sin^2\theta = 0
 \]
