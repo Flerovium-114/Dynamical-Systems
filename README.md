@@ -8,13 +8,12 @@ We have the equation:
 
 We aim to solve the second-order ODE:
 
-$\frac{d^2\theta}{dt^2} + \mu\frac{d\theta}{dt} + \omega_0^2 \sin^2\theta = 0$
-
+$$\frac{d^2\theta}{dt^2} + \mu\frac{d\theta}{dt} + \omega_0^2 \sin^2\theta = 0$$
 
 To simplify, we rewrite the equation as two first-order ODEs:
 
-- \( X_1 = \theta \)
-- \( X_2 = \frac{d\theta}{dt} \)
+- $$ X_1 = \theta $$
+- $$ X_2 = \frac{d\theta}{dt}$$ 
 
 Thus:
 \[
