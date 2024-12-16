@@ -15,10 +15,12 @@ To simplify, we rewrite the equation as two first-order ODEs:
 - $$X_1 = \theta$$
 - $$X_2 = \frac{d\theta}{dt}$$ 
 
-Thus:
+Thus we have:
 
 - $$\frac{dX_1}{dt} = X_2$$
 - $$\frac{dX_2}{dt} = -\mu X_2 - \omega_0^2 \sin^2(X_1)$$
+
+now, use RK-4 integration technique to numerically integrate these equations to find $\theta(t)$ and $\dot{\theta}(t)$.
 
 ## Reference:
 1) **Hydrodynamic Instabilities**, *FRANÇOIS CHARRU*, *University of Toulouse*, *Cambridge University Press*
