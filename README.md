@@ -5,7 +5,7 @@ This repository contains Python based codes for solving some simple problems on 
 
 ## Method for solving a second order ODE using RK-4 integration
 We have the equation
-$ \frac{d\theta^2}{dt^2} + \mu\frac{d\theta}{dt} + \omega_0^2sin^2\theta = 0$
+d²θ/dt² + μ dθ/dt + ω₀² sin²(θ) = 0
 
 ## Reference:
 1) **Hydrodynamic Instabilities**, *FRANÇOIS CHARRU*, *University of Toulouse*, *Cambridge University Press*
